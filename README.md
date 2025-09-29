@@ -12,7 +12,6 @@ Modern dark theme with colored buttons
 
 How to Run:
 Make sure Python 3 is installed.
-Run the file with:python calculator.py
 
 Notes:
 Click the buttons or use the keyboard to calculate. % is purple, 0 is normal size, and = is bigger for easy use.
