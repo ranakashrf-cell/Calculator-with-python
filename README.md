@@ -11,7 +11,7 @@ Keyboard support (Enter = =, Backspace deletes)
 Modern dark theme with colored buttons
 
 How to Run:
-Make sure Python 3 is installed.
+Make sure Python 3 is installed. Run the file with:Calculator with python by Ranak.
 
 Notes:
 Click the buttons or use the keyboard to calculate. % is purple, 0 is normal size, and = is bigger for easy use.
