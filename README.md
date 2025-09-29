@@ -1,2 +1,19 @@
-# Calculator-with-python
+Calculator with Python
+
 A beginner-friendly Python calculator that performs basic arithmetic operations.
+This project uses my own choice of colors, button sizes, and layout to make it visually appealing and easy to use.
+
+Features:
+Basic arithmetic: +, -, ×, ÷
+Advanced functions: x², √, %
+Big horizontal = button
+Keyboard support (Enter = =, Backspace deletes)
+Modern dark theme with colored buttons
+
+How to Run:
+Make sure Python 3 is installed.
+Run the file with:python calculator.py
+
+Notes:
+Click the buttons or use the keyboard to calculate. % is purple, 0 is normal size, and = is bigger for easy use.
+
